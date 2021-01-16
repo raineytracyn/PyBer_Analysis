@@ -16,8 +16,6 @@
 ###### ![Statistics](https://github.com/raineytracyn/PyBer_Analysis/blob/main/analysis/Fig11.png)
 ### To compare, you can see the upper bound of Rural is almost at $50, where as the Urban’s upper bound is close to $35. That can skew the average to go up or down significantly, not really giving us a true picture of the averages per ride and driver. It is important to utilize bell curves to remove outlyers when possible to obtain the most accurate data.
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) <ins>`Summary`</ins> 
-### Bell Curves
-# Put pics here
 ## 1. Three Business Recommendations
 ##### *Note: These recommendations to the CEO are to address disparities among the city types.*
 ### i.
