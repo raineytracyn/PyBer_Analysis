@@ -14,6 +14,8 @@
 ## <img src="https://github.com/raineytracyn/PyBer_Analysis/blob/main/analysis/Fig9.png" alt="Pyber Summary DataFrame" width="1400" height="215">
 ### Information here
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) <ins>`Summary`</ins> 
+### Bell Curves
+# Put pics here
 ## 1. Three Business Recommendations
 ##### *Note: These recommendations to the CEO are to address disparities among the city types.*
 ### i.
