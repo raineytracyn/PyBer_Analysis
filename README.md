@@ -9,5 +9,5 @@
 ## <img src="https://github.com/raineytracyn/PyBer_Analysis/blob/main/analysis/Fig9.png" alt="Pyber Summary DataFrame" width="1400" height="215">
 # <ins> Summary </ins>
 ## 1. Three Business Recommendations
-###### *Note: These recommendations to the CEO are to address disparities among the city types.*
+##### *Note: These recommendations to the CEO are to address disparities among the city types.*
 
