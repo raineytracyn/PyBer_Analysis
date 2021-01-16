@@ -14,7 +14,7 @@
 ## <img src="https://github.com/raineytracyn/PyBer_Analysis/blob/main/analysis/Fig9.png" alt="Pyber Summary DataFrame" width="1400" height="215">
 ### As you can see the in the table, there is some great data. However, when we put each row next to one another, we can see that the comparison would be very difficult due to the significant difference in total rides and total drivers. Something else the table does not show us is what is the upper and lower bounds of the information. To help showcase this, I pulled some statistics together (focus on fare per ride). Let’s dive into it a bit.
 ###### ![Statistics](https://github.com/raineytracyn/PyBer_Analysis/blob/main/analysis/Fig11.png)
-### To compare, you can see the upper bound of Rural is almost at $50, where as the Urban’s upper bound is close to $35. That can skew the average to go up or down significantly, not really giving us a true picture of the averages per ride and driver. 
+### To compare, you can see the upper bound of Rural is almost at $50, where as the Urban’s upper bound is close to $35. That can skew the average to go up or down significantly, not really giving us a true picture of the averages per ride and driver. It is important to utilize bell curves to remove outlyers when possible to obtain the most accurate data.
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) <ins>`Summary`</ins> 
 ### Bell Curves
 # Put pics here
