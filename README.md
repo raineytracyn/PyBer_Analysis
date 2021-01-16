@@ -15,3 +15,5 @@
 ### i.
 ### ii.
 ### iii.
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Thank you for your time and consideration. Bee Happy!!`
+###### ![Total Fares by city type](https://github.com/raineytracyn/PyBer_Analysis/blob/main/analysis/Fig10.png)
