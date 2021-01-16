@@ -12,7 +12,10 @@
 ### The three lines demonstrate there is a drastically different need and use of ride-sharing depending on the city type. For those living in rural areas, they may need to only go 3 streets over, whereas someone living in an Urban area might sit in traffic for two hours before getting to their destination. Suburban areas is tricky as those can drastically vary in size from state to state. It would be important to define what makes a city/town a rural/suburban/urban area. The FAA may be a good reference and starting point, because they have done a good job at defining this to help pilots understand what altitude they should stay at when flying over a populated area.
 ## 2. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 ## <img src="https://github.com/raineytracyn/PyBer_Analysis/blob/main/analysis/Fig9.png" alt="Pyber Summary DataFrame" width="1400" height="215">
-### Information here
+### As you can see the in the table, there is some great data. However, when we put each row next to one another, we can see that the comparison would be very difficult due to the significant difference in total rides and total drivers.  Something else the table does not show us is what is the upper and lower bounds of the information. 
+###### ![Statistics](https://github.com/raineytracyn/PyBer_Analysis/blob/main/analysis/Fig11.png)
+### To help showcase this, I pulled some statistics together (focus on fare per ride). Let’s dive into it a bit.
+### To compare, you can see the upper bound of Rural is almost at $50, where as the Urban’s upper bound is close to $35. That can skew the average to go up or down significantly, not really giving us a true picture of the averages per ride and driver. 
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) <ins>`Summary`</ins> 
 ### Bell Curves
 # Put pics here
