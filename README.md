@@ -18,8 +18,8 @@
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) <ins>`Summary`</ins> 
 ## 1. Three Business Recommendations
 ##### *Note: These recommendations to the CEO are to address disparities among the city types.*
-### i.
-### ii.
-### iii.
+### i. The program must establish what “Rural”, “Urban”, and “Suburban” are defined as. Questions that should be considered include: size of the population, size of the area, average household income, and probably an understanding of the economy and it’s driving forces. It could very well be that 90% of the population is using ride-share, whereas only 20% of the Urban population is. That speaks volumes in success of the ride share in one locations verses another.
+### ii. The averages have to take a bell curve into consideration. You have to be able to remove the outliers and focus on the core of the information. It is very possible that removing the outliers could lead to data indicating very similar results. 
+### iii. There is a disparity when looking at the average fare per ride related to the average far per driver. For Rural and Suburban areas, the fare per driver is higher than the fare per ride, where as the fare per ride is more than the fare per driver. It is likely that Urban is showing to have a bit too many drivers in relation to rides. Could the funding being used to cover the cost of unnecessary drivers be better utilized?
 ##### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Thank you for your time and consideration. Bee Happy Honey!!`
 ###### ![Total Fares by city type](https://github.com/raineytracyn/PyBer_Analysis/blob/main/analysis/Fig10.png)
